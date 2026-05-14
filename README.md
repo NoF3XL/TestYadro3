@@ -15,7 +15,7 @@ sudo apt install -y build-essential cmake nlohmann-json3-dev
 
 2. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/accel-distributed-system.git
+git clone https://github.com/NoF3XL/TestYadro3.git
 cd accel-distributed-system
 ```
 
