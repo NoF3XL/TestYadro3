@@ -16,7 +16,7 @@ sudo apt install -y build-essential cmake nlohmann-json3-dev
 2. Клонирование репозитория
 ```bash
 git clone https://github.com/NoF3XL/TestYadro3.git
-cd accel-distributed-system
+cd TestYadro3
 ```
 
 3. Сборка всех компонентов bash 
